@@ -13,3 +13,12 @@
 **Thanks to** : [Hossein Ahmadian-Yazdi](https://github.com/hahmadia), [Mattermost community](https://community.mattermost.com/login)
 
 ![blue-line](https://i.imgur.com/cETzBqq.png)
+
+#### Description
+The feature allows one to set a custom text based status in addition to their current status to the mattermost web app.
+
+#### Project links
+The feature can be found at **hackathon-nov2019** branch at the following repositories :
+- Server : https://github.com/M-ZubairAhmed/mattermost-webapp/tree/hackathon-nov2019
+- Web : https://github.com/M-ZubairAhmed/mattermost-webapp/tree/hackathon-nov2019
+- Redux : https://github.com/M-ZubairAhmed/mattermost-redux/tree/hackathon-nov2019
