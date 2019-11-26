@@ -6,4 +6,10 @@
 
 ![blue-line](https://i.imgur.com/cETzBqq.png)
 
+**Author** : [M Zubair Ahmed](https://github.com/M-ZubairAhmed)
+
+**Submittions** : [Mattermost hackathon Nov 2019](https://github.com/mattermost/mattermost-hackathon-nov2019)
+
+**Thanks to** : [Hossein Ahmadian-Yazdi](https://github.com/hahmadia), [Mattermost community](https://community.mattermost.com/login)
+
 ![blue-line](https://i.imgur.com/cETzBqq.png)
