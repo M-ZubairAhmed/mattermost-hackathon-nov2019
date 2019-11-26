@@ -56,18 +56,57 @@ npm run dev
 </details>
 
 
-<details><summary>3. Login with a user into the app and click on the status icon beside profile picture</summary>
+<details><summary>3. Login with a user into the app and click on the status icon beside profile picture, This will open a new dialog that will ask user to set a custom text along with mark it as a status. Fill in the information and click save</summary>
+
+
 
 <p>
 
+
+
   
-  ![Peek 2019-11-26 20-55](https://user-images.githubusercontent.com/17708702/69647292-1f3a2d80-1061-11ea-9fea-8108bf9778ea.gif)
+
+  ![Peek 2019-11-26 21-03](https://user-images.githubusercontent.com/17708702/69648051-7db3db80-1062-11ea-8a88-6500fb018442.gif)
+
 
 
 </p>
 
 
 
+
+
+
+
 </details>
+
+<details><summary>4. Logout with the user and login with another user, head to former user direct chat to see the status the user have written i.e working remotely</summary>
+
+
+
+<p>
+
+
+
+  
+
+  ![Peek 2019-11-26 20-55](https://user-images.githubusercontent.com/17708702/69647292-1f3a2d80-1061-11ea-9fea-8108bf9778ea.gif)
+
+
+
+
+
+</p>
+
+
+
+
+
+
+
+</details>
+
+
+
 
 
