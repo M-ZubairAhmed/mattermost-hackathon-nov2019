@@ -42,7 +42,7 @@ make run
 </p>
 </details>
 
-<details><summary>2.Connect redux app to webapp.</summary>
+<details><summary>2. Connect redux app to webapp.</summary>
 <p>
 
 ```bash
@@ -54,3 +54,19 @@ npm run dev
 </p>
 
 </details>
+
+
+<details><summary>3. Login with a user into the app and click on the status icon beside profile picture</summary>
+
+<p>
+
+  <img src="https://user-images.githubusercontent.com/17708702/69645282-d6cd4080-105d-11ea-95e2-d70260345ae1.png" width="250" height="120" />
+
+
+</p>
+
+
+
+</details>
+
+
