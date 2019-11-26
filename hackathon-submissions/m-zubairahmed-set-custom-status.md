@@ -80,7 +80,7 @@ npm run dev
 
 </details>
 
-<details><summary>4. Logout with the user and login with another user, head to former user direct chat to see the status the user have written i.e working remotely</summary>
+<details><summary>4. Open another incognito, login with another user, head to former user direct chat to see the status the user have written i.e in a meeting</summary>
 
 
 
@@ -90,8 +90,7 @@ npm run dev
 
   
 
-  ![Peek 2019-11-26 20-55](https://user-images.githubusercontent.com/17708702/69647292-1f3a2d80-1061-11ea-9fea-8108bf9778ea.gif)
-
+![Peek 2019-11-26 21-11](https://user-images.githubusercontent.com/17708702/69648513-5f9aab00-1063-11ea-8378-1fd30f30baa1.gif)
 
 
 
