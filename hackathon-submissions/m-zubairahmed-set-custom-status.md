@@ -22,3 +22,35 @@ The feature can be found at **hackathon-nov2019** branch at the following reposi
 - Server : https://github.com/M-ZubairAhmed/mattermost-webapp/tree/hackathon-nov2019
 - Web : https://github.com/M-ZubairAhmed/mattermost-webapp/tree/hackathon-nov2019
 - Redux : https://github.com/M-ZubairAhmed/mattermost-redux/tree/hackathon-nov2019
+
+
+#### Flow
+
+<details><summary>1. Start the server and webapp</summary>
+<p>
+  
+Server
+
+```bash
+make run-server
+```
+App
+
+```bash
+make run
+```
+</p>
+</details>
+
+<details><summary>2.Connect redux app to webapp.</summary>
+<p>
+
+```bash
+
+npm run dev
+
+```
+
+</p>
+
+</details>
