@@ -60,7 +60,8 @@ npm run dev
 
 <p>
 
-  <img src="https://user-images.githubusercontent.com/17708702/69645282-d6cd4080-105d-11ea-95e2-d70260345ae1.png" width="250" height="120" />
+  
+  ![Peek 2019-11-26 20-55](https://user-images.githubusercontent.com/17708702/69647292-1f3a2d80-1061-11ea-9fea-8108bf9778ea.gif)
 
 
 </p>
